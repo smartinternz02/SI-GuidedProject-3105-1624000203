@@ -7,20 +7,20 @@
  To accomplish this, we have to complete all the activities and tasks listed below
  ### Data Collection.
    - Collect the dataset or Create the dataset
-### Data Preprocessing.
-Import the Libraries.
-Importing the dataset.
-Checking for Null Values.
-Data Visualization.
-Taking care of Missing Data.
-Label encoding.
-One Hot Encoding.
-Feature Scaling.
-Splitting Data into Train and Test.
-Model Building
-Training and testing the model
-Evaluation of Model
-Application Building
-Create an HTML file
-Build a Python Code
+ ### Data Preprocessing.
+   - Import the Libraries.
+   - Importing the dataset.
+   - Checking for Null Values.
+   - Data Visualization.
+   - Taking care of Missing Data.
+   - Label encoding.
+   - One Hot Encoding.
+   - Feature Scaling.
+   - Splitting Data into Train and Test.
+### Model Building
+- Training and testing the model
+- Evaluation of Model
+### Application Building
+- Create an HTML file
+- Build a Python Code
 
