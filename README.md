@@ -4,10 +4,10 @@
 - The user interacts with the UI (User Interface) to enter the data.
 - Entered data is analyzed by the model which is integrated
 - Once the model analyses the input, the prediction is showcased on the UI
-- To accomplish this, we have to complete all the activities and tasks listed below
-  - Data Collection.
-Collect the dataset or Create the dataset
-Data Preprocessing.
+ To accomplish this, we have to complete all the activities and tasks listed below
+ ### Data Collection.
+   - Collect the dataset or Create the dataset
+### Data Preprocessing.
 Import the Libraries.
 Importing the dataset.
 Checking for Null Values.
