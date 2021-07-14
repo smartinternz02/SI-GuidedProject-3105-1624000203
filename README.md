@@ -1,5 +1,7 @@
 # Estimate The Presence Of Impurities In Iron Ore Using IBM Watson Machine Learning (SI-GuidedProject-3105-1624000203)
 
+## Drive link for the Datasets and the PKL file (because they are huge): https://drive.google.com/drive/folders/1vfTqEyyt16zLcvAmbUcHFtGwwxqHZwEQ?usp=sharing
+
 ## Project Flow
 - The user interacts with the UI (User Interface) to enter the data.
 - Entered data is analyzed by the model which is integrated
