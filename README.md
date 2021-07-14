@@ -1,7 +1,7 @@
 # Estimate The Presence Of Impurities In Iron Ore Using IBM Watson Machine Learning (SI-GuidedProject-3105-1624000203)
 
 ## Project Flow
-  The user interacts with the UI (User Interface) to enter the data
+-- The user interacts with the UI (User Interface) to enter the data.
   Entered data is analyzed by the model which is integrated
   Once the model analyses the input, the prediction is showcased on the UI
   To accomplish this, we have to complete all the activities and tasks listed below
