@@ -26,3 +26,6 @@
 - Create an HTML file
 - Build a Python Code
 
+## Outputs
+
+![alt text](https://github.com/smartinternz02/SI-GuidedProject-3105-1624000203/blob/master/Outputs/image%20(1).png)
