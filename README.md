@@ -28,6 +28,9 @@
 
 ## Outputs
 
+### About
 ![alt text](https://github.com/smartinternz02/SI-GuidedProject-3105-1624000203/blob/master/Outputs/image.png)
+### UI
 ![alt text](https://github.com/smartinternz02/SI-GuidedProject-3105-1624000203/blob/master/Outputs/image2.png)
+### Sample Prediction
 ![alt text](https://github.com/smartinternz02/SI-GuidedProject-3105-1624000203/blob/master/Outputs/image%20(1).png)
